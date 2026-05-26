@@ -150,39 +150,17 @@ Market Data (Binance WebSocket)
 
 ---
 
-## Performance (Paper Trading)
-
-> *Live results from autonomous paper trading — updated continuously*
-
-| Metric | Value |
-|--------|-------|
-| Starting Portfolio | $1,000 |
-| Current Portfolio | $1,024 |
-| Win Rate | 80% |
-| Profit Factor | 4.65 |
-| Total R | +3.65R |
-| Max Drawdown | 1.0% |
-| Strategies Active | 6 |
-| Assets Monitored | 5 |
-| Timeframes | 15M, 1H, 4H |
-
----
-
 ## Project Status
 
 🟢 **Live and running fully autonomously**
 
 The system scans markets every hour across 15 asset-timeframe combinations, executes paper trades automatically when setups qualify, monitors open positions every 30 seconds for TP/SL/breakeven/trailing stop, and journals everything automatically.
 
-Currently in 4-week paper trading validation phase before connecting real exchange capital.
-
 ---
 
 ## About
 
 Built entirely from scratch as a personal project to combine professional trading methodology with modern software engineering. The system implements concepts from Smart Money Concepts (SMC), ICT methodology, and systematic risk management principles used by professional trading firms.
-
-**This is a private repository.** Source code is not public to protect proprietary strategy logic and scoring system.
 
 ---
 
