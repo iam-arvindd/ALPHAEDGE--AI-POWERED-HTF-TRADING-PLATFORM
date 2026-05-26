@@ -11,7 +11,6 @@
 [![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 [![Render](https://img.shields.io/badge/Render-Live-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)
 
-**[🚀 Live Demo →](https://alphaedge-viziblehq-3052s-projects.vercel.app)**
 
 </div>
 
@@ -22,12 +21,6 @@
 AlphaEdge is a fully autonomous paper trading intelligence system built for crypto futures markets. It continuously scans BTC, ETH, SOL, XRP, and BNB across multiple timeframes, scores trading setups using a proprietary multi-strategy confluence engine, and automatically executes paper trades with professional-grade risk management — 24 hours a day, 6 days a week, without any manual intervention.
 
 Think of it as a personal trading desk that never sleeps, never emotions, and always follows the rules.
-
----
-
-## Dashboard Preview
-
-![AlphaEdge Dashboard](https://raw.githubusercontent.com/iam-arvindd/alphaedge/main/docs/dashboard.png)
 
 ---
 
